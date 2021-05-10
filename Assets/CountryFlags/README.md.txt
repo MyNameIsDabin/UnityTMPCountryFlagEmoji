@@ -1,0 +1,1 @@
+Sheet_CountryFlags.asset 파일의 Global Offsets & Scale 조정해서 사용하세요
